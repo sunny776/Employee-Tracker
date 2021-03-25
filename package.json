@@ -1,0 +1,24 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "tracking employees",
+  "main": "employeeTracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node employeeTacker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunny776/Employee-Tracker.git"
+  },
+  "author": "Sarnass Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunny776/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/sunny776/Employee-Tracker#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  }
+}
